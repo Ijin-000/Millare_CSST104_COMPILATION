@@ -12,11 +12,11 @@ Welcome to the compilation of my Exercises, Activities, Task, and Midterm Exam i
 5. [CSST Task](#csst-task)
 (<a href="Task/3B_MILLARE_TASK6">Task6</a>, <a href="Task/3B_MILLARE_TASK7">Task7</a>, <a href="Task/3B_MILLARE_TASK8">Task8</a>, <a href="Task/3B_MILLARE_TASK9_MIDTERM">Task9_Midterm</a>)
 
-## CSST Exercise
+## CSST Exercises
 
 Exercise - The exercises in the CSST 104 subject were demonstrated by our professor during our laboratory sessions. These exercises served as examples for our future activities, and everything demonstrated can be used in our system code for our Thesis Topic.
 
-## CSST Activity
+## CSST Activities
 
 Activity - In addition to the demonstrations by our professor during CSST 104 laboratory sessions, we also engaged in activities that required independent work. These sessions provided us with the opportunity to apply the concepts learned during the demonstrations and build upon them. By creating our own foundations based on what we learned during the demonstration period, we strengthened our understanding and proficiency in the subject matter.
 
