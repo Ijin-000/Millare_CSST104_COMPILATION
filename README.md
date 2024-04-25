@@ -8,9 +8,9 @@ Welcome to the compilation of my Exercises, Activities, Task, and Midterm Exam i
 1. [CSST Exercise](#csst-exercise)
 2. <a href="Exercises">Exercises</a>
 3. [CSST Activity](#csst-activity)
-4. <a href="Activities">Exercises</a>
+4. <a href="Activities">Activities</a>
 5. [CSST Task](#csst-task)
-6. <a href="Task">Exercises</a>
+6. <a href="Task">Task</a>
 
 ## CSST Exercise
 
