@@ -6,11 +6,11 @@ Welcome to the compilation of my Exercises, Activities, Task, and Midterm Exam i
 
 ## Table of Contents
 1. [CSST Exercise](#csst-exercise)
-2. <a href="Exercises/Exer1.ipynb">Exercises1</a>, <a href="Exercises/Exer2.ipynb">Exercises2</a>, <a href="Exercises/Exer3.ipynb">Exercises3</a>, <a href="Exercises/Exer4.ipynb">Exercises4</a>, <a href="Exercises/Exer5.ipynb">Exercises5</a>, <a href="Exercises/Exer6.ipynb">Exercises6</a>, <a href="Exercises/Exer7.ipynb">Exercises7</a>
+(<a href="Exercises/Exer1.ipynb">Exercises1</a>, <a href="Exercises/Exer2.ipynb">Exercises2</a>, <a href="Exercises/Exer3.ipynb">Exercises3</a>, <a href="Exercises/Exer4.ipynb">Exercises4</a>, <a href="Exercises/Exer5.ipynb">Exercises5</a>, <a href="Exercises/Exer6.ipynb">Exercises6</a>, <a href="Exercises/Exer7.ipynb">Exercises7</a>)
 3. [CSST Activity](#csst-activity)
-4. <a href="Activities/Act1_MILLARE_BSCS3B.ipynd">Activity1</a>, <a href="Activities/Act2_Millare_SimpleLinearRegression.ipynd">Activity2</a>, <a href="Activities/Act2_Millare_MultipleLinearRegression.ipynd">Activity1</a>, <a href="Activities/Act4_Millare_titanic_3b.ipynd">Activity4</a>
+(<a href="Activities/Act1_MILLARE_BSCS3B.ipynd">Activity1</a>, <a href="Activities/Act2_Millare_SimpleLinearRegression.ipynd">Activity2</a>, <a href="Activities/Act2_Millare_MultipleLinearRegression.ipynd">Activity1</a>, <a href="Activities/Act4_Millare_titanic_3b.ipynd">Activity4</a>)
 5. [CSST Task](#csst-task)
-6. <a href="Task">Task</a>
+(<a href="Task/3B_MILLARE_TASK6">Task6</a>, <a href="Task/3B_MILLARE_TASK7">Task7</a>, <a href="Task/3B_MILLARE_TASK8">Task8</a>, <a href="Task/3B_MILLARE_TASK9_MIDTERM">Task9_Midterm</a>)
 
 ## CSST Exercise
 
