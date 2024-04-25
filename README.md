@@ -1,4 +1,4 @@
-#Compilation of All Exerxies, Activities and Task Given in CSST 104 
+#Compilation of All Exercises, Activities and Task Given in CSST 104 
 
 ##INTRODUCTION
 
