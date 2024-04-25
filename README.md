@@ -2,7 +2,7 @@
 
 ##INTRODUCTION
 
-Welcome to the compilation of my Exercises, Activities, Task, and Midterm Exam in CSST 104 subject. Below, you' ll find short definition of where did we make this CSST 104 Exercises, Activities, Task, and Midterm Exam.
+Welcome to the compilation of my Exercises, Activities, Task, and Midterm Exam in CSST 104 subject. Below, you' ll find short definition of where and how did we make this CSST 104 Exercises, Activities, Task, and Midterm Exam.
 
 ## Table of Contents
 
