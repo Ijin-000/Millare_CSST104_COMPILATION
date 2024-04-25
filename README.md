@@ -5,13 +5,12 @@
 Welcome to the compilation of my Exercises, Activities, Task, and Midterm Exam in CSST 104 subject. Below, you' ll find short definition of where and how did we make this CSST 104 Exercises, Activities, Task, and Midterm Exam.
 
 ## Table of Contents
-
 1. [CSST Exercise](#csst-exercise)
 2. <a href="Exercises">Exercises</a>
-
 3. [CSST Activity](#csst-activity)
-
-4. [CSST Task](#csst-task)
+4. <a href="Activities">Exercises</a>
+5. [CSST Task](#csst-task)
+6. <a href="Task">Exercises</a>
 
 ## CSST Exercise
 
