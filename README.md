@@ -6,7 +6,7 @@ Welcome to the compilation of my Exercises, Activities, Task, and Midterm Exam i
 
 ## Table of Contents
 1. [CSST Exercise](#csst-exercise)
-2. <a href="Exercises/Exer1">Exercises1</a>, <a href="Exercises/Exer2">Exercises2</a>, <a href="Exercises/Exer3">Exercises3</a>, <a href="Exercises/Exer4">Exercises4</a>
+2. <a href="Exercises/Exer1.ipynb">Exercises1</a>, <a href="Exercises/Exer2.ipynb">Exercises2</a>, <a href="Exercises/Exer3.ipynb">Exercises3</a>, <a href="Exercises/Exer4.ipynb">Exercises4</a>, <a href="Exercises/Exer5.ipynb">Exercises5</a>, <a href="Exercises/Exer6.ipynb">Exercises6</a>, <a href="Exercises/Exer7.ipynb">Exercises7</a>
 3. [CSST Activity](#csst-activity)
 4. <a href="Activities">Activities</a>
 5. [CSST Task](#csst-task)
