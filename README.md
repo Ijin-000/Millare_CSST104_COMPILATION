@@ -7,7 +7,7 @@ Welcome to the compilation of my Exercises, Activities, Task, and Midterm Exam i
 ## Table of Contents
 
 1. [CSST Exercise](#csst-exercise)
-<a href="Exercises/READ.md">link text</a>
+<a href="Exercises/READ.md">Exercises</a>
 2. [CSST Activity](#csst-activity)
 
 3. [CSST Task](#csst-task)
